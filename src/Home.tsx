@@ -1384,7 +1384,7 @@ const Home = (props: HomeProps) => {
                       </div>
                                                         <div className="tw-border tw-border-solid tw-border-purple-1 tw-p-2 tw-rounded-md tw-text-white-1 tw-h-fit-content tw-text-[14px] tw-flex tw-gap-2 tw-whitespace-nowrap">
                                                             <span className="tw-font-light">TOTAL ITEMS</span>
-                                                            <span className="tw-font-bold">1 555 ◎</span>
+                                                            <span className="tw-font-bold">3939 ◎</span>
                                                         </div>
                       
                       <div className="tw-border tw-border-solid tw-border-purple-1 tw-p-2 tw-rounded-md tw-text-white-1 tw-h-fit-content tw-text-[14px] tw-flex tw-gap-2 tw-whitespace-nowrap">
